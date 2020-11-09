@@ -1,0 +1,17 @@
+AKILLI ÇÖP KOVASI
+
+Kullanılacak Malzemeler:
+- 1 adet HC-SR04 Ultrasonik Mesafe Sensörü
+- 1 adet Servo Motor
+- Arduino UNO ve USB Kablosu
+- Erkek-Erkek ve Dişi-Dişi Jumper Kablo
+- Çöp Kovası
+
+Bir projeye başlamadan önce kesinlikle kullanığınız komponentlere ait datasheetleri okumalısınız.
+Bu yüzden projeye başlamadan önce aşağıda paylaşmış olduğum datasheetleri incelemenizi tavsiye ederim.
+
+HC-SR04 datasheet : https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+Servo Motor datasheet : https://pdf.direnc.net/upload/sg90-9g-servo-motor-mini-datasheet.pdf
+
+Aklınıza takılan en ufak bir soruda 'emrehanoglu_07@hotmail.com' e-mail yoluyla bana ulaşabilirsiniz.
+Şimdiden iyi çalışmalar.
